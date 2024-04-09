@@ -42,7 +42,7 @@ Copy Magisk Manager and boot.img from PC/Laptop > Past in Android Download
 Install Magisk Manager v25.2 > Open > Tap on Install> Select and Patch a File > Select boot.img > LET'S GO  
 Copy magisk_patched-xxxxx.img to PC/Laptop  
 
-*IN PC/Laptop
+* IN PC/Laptop
 Open cmd in Platform tools folder  
 > /adb device   
 > /adb reboot bootloader    
